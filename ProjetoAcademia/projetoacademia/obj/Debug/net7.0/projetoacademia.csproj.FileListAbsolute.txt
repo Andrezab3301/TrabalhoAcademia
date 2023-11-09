@@ -1,0 +1,14 @@
+C:\Users\andre\Documents\Faculdade\Teste2\projetoacademia\bin\Debug\net7.0\projetoacademia.exe
+C:\Users\andre\Documents\Faculdade\Teste2\projetoacademia\bin\Debug\net7.0\projetoacademia.deps.json
+C:\Users\andre\Documents\Faculdade\Teste2\projetoacademia\bin\Debug\net7.0\projetoacademia.runtimeconfig.json
+C:\Users\andre\Documents\Faculdade\Teste2\projetoacademia\bin\Debug\net7.0\projetoacademia.dll
+C:\Users\andre\Documents\Faculdade\Teste2\projetoacademia\bin\Debug\net7.0\projetoacademia.pdb
+C:\Users\andre\Documents\Faculdade\Teste2\projetoacademia\obj\Debug\net7.0\projetoacademia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\Faculdade\Teste2\projetoacademia\obj\Debug\net7.0\projetoacademia.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Faculdade\Teste2\projetoacademia\obj\Debug\net7.0\projetoacademia.AssemblyInfo.cs
+C:\Users\andre\Documents\Faculdade\Teste2\projetoacademia\obj\Debug\net7.0\projetoacademia.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Faculdade\Teste2\projetoacademia\obj\Debug\net7.0\projetoacademia.dll
+C:\Users\andre\Documents\Faculdade\Teste2\projetoacademia\obj\Debug\net7.0\refint\projetoacademia.dll
+C:\Users\andre\Documents\Faculdade\Teste2\projetoacademia\obj\Debug\net7.0\projetoacademia.pdb
+C:\Users\andre\Documents\Faculdade\Teste2\projetoacademia\obj\Debug\net7.0\projetoacademia.genruntimeconfig.cache
+C:\Users\andre\Documents\Faculdade\Teste2\projetoacademia\obj\Debug\net7.0\ref\projetoacademia.dll
